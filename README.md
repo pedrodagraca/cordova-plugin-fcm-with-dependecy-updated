@@ -1,4 +1,4 @@
-This is a fork of the original where I have added android:exported="true" to the manifest to cater for Android 12 requirements
+## This is a fork of the original where I have added android:exported="true" to the manifest to cater for Android 12 requirements
 
 ⚠️ After 3 years of developing and maintaining this plugin, due to the lack of sponsorship from the community and more promising opportunities, this project is now frozen. Anyone can clone and continue the good work. ⚠️
 
